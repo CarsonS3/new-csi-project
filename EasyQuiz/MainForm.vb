@@ -11,4 +11,10 @@
         Me.Hide()
         MathQuiz.Show()
     End Sub
+
+    Private Sub btnHistory_Click(sender As Object, e As EventArgs) Handles btnHistory.Click
+        Dim history As New History
+        Me.Hide()
+        history.Show()
+    End Sub
 End Class

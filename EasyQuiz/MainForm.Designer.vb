@@ -24,7 +24,7 @@ Partial Class MainForm
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnScience = New System.Windows.Forms.Button()
-        Me.btnEnglish = New System.Windows.Forms.Button()
+        Me.btnHistory = New System.Windows.Forms.Button()
         Me.btnMath = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
         Me.SuspendLayout()
@@ -35,7 +35,7 @@ Partial Class MainForm
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(99, 54)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(590, 88)
+        Me.Label1.Size = New System.Drawing.Size(581, 84)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Welcome to the quiz application, " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "which quiz would you like to take?"
         '
@@ -48,14 +48,14 @@ Partial Class MainForm
         Me.btnScience.Text = "Science"
         Me.btnScience.UseVisualStyleBackColor = True
         '
-        'btnEnglish
+        'btnHistory
         '
-        Me.btnEnglish.Location = New System.Drawing.Point(293, 312)
-        Me.btnEnglish.Name = "btnEnglish"
-        Me.btnEnglish.Size = New System.Drawing.Size(172, 86)
-        Me.btnEnglish.TabIndex = 2
-        Me.btnEnglish.Text = "English"
-        Me.btnEnglish.UseVisualStyleBackColor = True
+        Me.btnHistory.Location = New System.Drawing.Point(293, 312)
+        Me.btnHistory.Name = "btnHistory"
+        Me.btnHistory.Size = New System.Drawing.Size(172, 86)
+        Me.btnHistory.TabIndex = 2
+        Me.btnHistory.Text = "History"
+        Me.btnHistory.UseVisualStyleBackColor = True
         '
         'btnMath
         '
@@ -82,7 +82,7 @@ Partial Class MainForm
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnMath)
-        Me.Controls.Add(Me.btnEnglish)
+        Me.Controls.Add(Me.btnHistory)
         Me.Controls.Add(Me.btnScience)
         Me.Controls.Add(Me.Label1)
         Me.Name = "MainForm"
@@ -94,7 +94,7 @@ Partial Class MainForm
 
     Friend WithEvents Label1 As Label
     Friend WithEvents btnScience As Button
-    Friend WithEvents btnEnglish As Button
+    Friend WithEvents btnHistory As Button
     Friend WithEvents btnMath As Button
     Friend WithEvents btnExit As Button
 End Class
