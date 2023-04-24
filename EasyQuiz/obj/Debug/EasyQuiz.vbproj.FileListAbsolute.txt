@@ -1,0 +1,14 @@
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\bin\Debug\EasyQuiz.exe.config
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\bin\Debug\EasyQuiz.exe
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\bin\Debug\EasyQuiz.pdb
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\bin\Debug\EasyQuiz.xml
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.vbproj.AssemblyReference.cache
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.MainForm.resources
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.MathQuiz.resources
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.Resources.resources
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.vbproj.GenerateResource.cache
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.vbproj.CoreCompileInputs.cache
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.exe
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.xml
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.pdb
+C:\Users\cmses\OneDrive\Desktop\csci easy quiz\EasyQuiz\obj\Debug\EasyQuiz.vbproj.ResolveComReference.cache
